@@ -50,6 +50,9 @@ Batch passport-photo web app — upload portraits, AI background removal (local 
 ### 📫 Connect with me
 
 - GitHub: [@ya-arafat36](https://github.com/ya-arafat36)
+- Facebook: [yasin.arafat369](https://www.facebook.com/yasin.arafat369)
+- Instagram: [@ya_arafat36](https://www.instagram.com/ya_arafat36)
+- X: [@yasin_araf0t](https://x.com/yasin_araf0t)
 
 ---
 
